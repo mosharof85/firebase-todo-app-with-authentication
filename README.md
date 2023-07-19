@@ -1,7 +1,5 @@
 # Next.js Todo App with Firebase Authentication and Context API
 
-![App Screenshot](screenshot.png)
-
 This is a simple Todo application built using Next.js, Firebase authentication, and Context API. It allows users to create, update, and delete their todos while maintaining their session using Firebase authentication.
 
 ## Demo
