@@ -6,7 +6,7 @@ This is a simple Todo application built using Next.js, Firebase authentication, 
 
 ## Demo
 
-[Live Demo](https://your-todo-app-url.com)
+[Live Demo](https://firebase-todo-app-with-authentication.vercel.app/)
 
 ## Features
 
